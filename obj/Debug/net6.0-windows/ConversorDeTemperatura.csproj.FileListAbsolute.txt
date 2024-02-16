@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\bin\Debug\net6.0-windows\ConversorDeTemperatura.exe
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\bin\Debug\net6.0-windows\ConversorDeTemperatura.deps.json
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\bin\Debug\net6.0-windows\ConversorDeTemperatura.runtimeconfig.json
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\bin\Debug\net6.0-windows\ConversorDeTemperatura.dll
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\bin\Debug\net6.0-windows\ConversorDeTemperatura.pdb
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.Form1.resources
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.csproj.GenerateResource.cache
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.AssemblyInfo.cs
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.dll
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\refint\ConversorDeTemperatura.dll
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.pdb
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ConversorDeTemperatura.genruntimeconfig.cache
+C:\Users\user\Desktop\windowsFTreino\ConversorDeTemperatura\obj\Debug\net6.0-windows\ref\ConversorDeTemperatura.dll
